@@ -23,7 +23,7 @@
     "type": "git",
     "url": "https://github.com/Swesdek/redocly.git"
   },
-  "homepage": "https://github.com/Swesdek/redocly.git",
+  "homepage": "https://github.com/Swesdek/redocly",
   "keywords": [
     "linter",
     "OpenAPI",
@@ -45,8 +45,6 @@
     "@redocly/openapi-core": "2.20.3",
     "@redocly/respect-core": "2.20.3",
     "abort-controller": "^3.0.0",
-    "@faker-js/faker": "10.3.0",
-    "decko": "1.2.0",
     "ajv": "npm:@redocly/ajv@8.18.0",
     "ajv-formats": "^3.0.1",
     "colorette": "^1.2.0",
